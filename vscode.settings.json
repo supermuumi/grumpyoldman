@@ -1,3 +1,4 @@
 {
-  "editor.autoClosingQuotes": "never"
+  "editor.autoClosingQuotes": "never",
+  "editor.mouseWheelZoom": true
 }
